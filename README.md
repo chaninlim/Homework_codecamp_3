@@ -1,2 +1,3 @@
-# Homework_codecamp_3
- Homework_codecamp_3
+### CodeCamp # 3
+ชนินทร์ ลิ้มไพบูลย์
+
